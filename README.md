@@ -1,2 +1,2 @@
 # Codigo_comparido
-Repositorio temporal para compartir código
+Repositorio temporal para compartir código.
